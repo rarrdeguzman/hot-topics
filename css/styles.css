@@ -362,7 +362,7 @@ button {
   }
 
   .flex_container {
-    padding: 50px 0 0 0 !important;
+    padding: 0 0 0 0 !important;
   }
 
   .sideNav {
@@ -395,7 +395,7 @@ button {
   }
 
   .portfolio_section {
-    padding: 0 0 40px 0 !important;
+    padding: 50px 0 40px 0 !important;
   }
 
   .footer {
