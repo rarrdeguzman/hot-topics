@@ -1,0 +1,59 @@
+{
+  "article1": {
+    "title": "<h1 class='article_headline darkColor'>AI-Powered Drones Set to Transform Agricultural Practices</h1>",
+
+    "bodyText": "<p class='article_p darkColor'>AI-powered drones are revolutionizing the agricultural industry by enhancing efficiency and precision in farming practices. Equipped with advanced sensors and machine learning algorithms, these drones can monitor crop health, optimize irrigation, and detect pests with unparalleled accuracy. By providing real-time data and actionable insights, AI drones help farmers make informed decisions, ultimately boosting crop yields and reducing resource waste. This innovative technology promises to shape the future of agriculture, making it more sustainable and productive.</p>",
+
+    "url": "<figure><img class='article_image' src='https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'></figure>"
+  },
+
+  "article2": {
+    "title": "<h1 class='article_headline darkColor'>The Future of Augmented Reality Integration</h1>",
+    "bodyText": "<p class='article_p darkColor'>Smart glasses are paving the way for seamless augmented reality (AR) integration into daily life. These innovative devices overlay digital information onto the physical world, providing users with real-time data, navigation assistance, and interactive experiences. From enhancing productivity in workplaces to offering immersive gaming and educational applications, smart glasses are set to revolutionize how we interact with technology. As advancements continue and designs become more user-friendly, smart glasses could soon become a ubiquitous part of our tech-driven lifestyles, blending the digital and real worlds like never before.</p>",
+    "url": "<figure><img class='article_image' src='https://images.pexels.com/photos/3405456/pexels-photo-3405456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'></figure>"
+  },
+
+  "articl3": {
+    "title": "<h1 class='article_headline darkColor'>Blockchain Technology Enhances Supply Chain Transparency</h1>",
+    "bodyText": "<p class='article_p darkColor'>Blockchain technology is revolutionizing supply chain management by offering unprecedented transparency and security. By recording transactions on an immutable ledger, blockchain ensures that every step of the supply chain is visible and verifiable. This innovation helps combat fraud, reduce errors, and improve efficiency by providing real-time tracking of goods from origin to destination. Companies across various industries are adopting blockchain to enhance trust and accountability, paving the way for a more reliable and transparent global supply chain.</p>",
+    "url": "<figure><img class='article_image' src='https://images.pexels.com/photos/5980573/pexels-photo-5980573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'></figure>"
+  },
+
+  "portfolio1": {
+    "title": "object-redgem-angle2.png",
+    "bodyText": "Rubelite",
+    "url": "img/portfolio/object-redgem-angle2.png"
+  },
+
+  "portfolio2": {
+    "title": "asymmetry_building_2",
+    "bodyText": "Bank Street Building",
+    "url": "img/portfolio/asymmetry_building_2.png"
+  },
+
+  "portfolio3": {
+    "title": "focus_butterfly",
+    "bodyText": "Butter Fly",
+    "url": "img/portfolio/focus_butterfly.png"
+  },
+
+  "portfolio4": {
+    "title": "jelly fish",
+    "bodyText": "Jelly Fish",
+    "url": "img/portfolio/jelly.png"
+  },
+
+  "portfolio5": {
+    "title": "tone_vintage_building_1",
+    "bodyText": "Bank St. Vintage Building 1",
+    "url": "img/portfolio/tone_vintage_building_1.png"
+  },
+
+  "portfolio6": {
+    "title": "tone_vintage_building_2",
+    "bodyText": "Bank St. Vintage Building 2",
+    "url": "img/portfolio/tone_vintage_building_2.png"
+  }
+
+
+}
