@@ -89,12 +89,6 @@ function detectButton(ev) {
 
 
 
-function autoRefresh() {
-window.location = window.location.href;
-console.log('refreshed');
-}
-setInterval('autoRefresh()', 2000);
-
 
 
 
